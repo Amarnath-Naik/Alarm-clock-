@@ -21,3 +21,5 @@ while True:            #this loop for check the time value match or not for ever
                 print("⏲️  playing alarm...")
                 playsound('C:\\Users\\amarn\\Music\\sound effect pack\\Phone Ringing.mp3')
                 break    #for break the loop after match the time values# project
+                #done
+                
