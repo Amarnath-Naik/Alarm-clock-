@@ -47,7 +47,7 @@ for i in review:
 
 
 df = pd.DataFrame({"Produt name":product_name,"prices":price_values,"desc":desc_list,"review":review_list}) 
-# you can change the name as per your requirement
+# you can change the column name as per your requirement
 
 print(df)
 # df.to_csv("product details.csv")
